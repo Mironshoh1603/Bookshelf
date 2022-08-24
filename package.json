@@ -1,0 +1,29 @@
+{
+  "name": "magiclife",
+  "version": "1.0.0",
+  "description": "WonderFull Project ",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mironshoh1603/MagicLifeApi.git"
+  },
+  "author": "https://github.com/Mironshoh1603",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mironshoh1603/MagicLifeApi/issues"
+  },
+  "homepage": "https://github.com/Mironshoh1603/MagicLifeApi#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.2",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
